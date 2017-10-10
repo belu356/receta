@@ -1,6 +1,11 @@
-.p{
-    color:red;
+p{
+		color: blue;
+		font-family: verdana;
+		text-align: center;
 }
-.head{
-    color: blue;
+h1{
+	text-align: center;
+}
+h3,h4{
+	color: purple;
 }
